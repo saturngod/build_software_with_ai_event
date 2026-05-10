@@ -1,5 +1,7 @@
 # Software Development with AI
 
+Video Link: [Youtube](https://www.youtube.com/watch?v=F6yimJTQXKA)
+
 ဒီနေ့ ပြောသွားသည့် Summary များ
 
 ## Coding လေ့လာသင့်လား ? Coding မတတ်ပဲ Vibe Coding လုပ်တာနဲ့ တတ်ပြီး လုပ်တာ ဘာကွာလဲ။

@@ -1,5 +1,5 @@
 ---
-name: process-prd
+name: phase-prd
 description: Process an existing Product Requirements Document into separate phase files with actionable tasks, dependencies, verification steps, and implementation-ready checklists.
 ---
 
